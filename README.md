@@ -57,7 +57,8 @@ Following are the factors to be considered for builidng a great mobile app.
   *   Separate out the business logic into it's own layer also known as the the `Domain` layer.
       > Adapt the `Clean Architecture Principles` to separate the layers for better flexibility.
       > 
-      > ![Cleanarch_layers drawio](https://github.com/taruncopper/cleanarchitecture/assets/167800713/b6888942-b3a5-4cda-a503-cd8819ae15c9)
+      > ![cleanarch_icon drawio](https://github.com/tarunkhurana2015/mobilearchitecture/assets/9640541/d7953f34-82fb-4f7b-b6a7-31a7a52a59fe)
+
 
 * ### Miscroservices
   *  For backend services, use a microservices architecture to allow independent scaling and deployment of services.
